@@ -1,1 +1,2 @@
-![Image of Suroor] (https://media-exp3.licdn.com/dms/image/C4E03AQEpF0Wgbhsmeg/profile-displayphoto-shrink_800_800/0/1598447249881?e=1629331200&v=beta&t=4Iw84AmnbECyyELo_69PM_KJNoZOEOhEtTVnvXHROfs)
+![Image of Suroor](https://raw.githubusercontent.com/suroordotme/markdown-portfolio/40f06725be78c6cf9807ed41f6969c3b6876cacc/suroor.jpeg)
+
